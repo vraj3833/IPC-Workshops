@@ -1,10 +1,10 @@
 *****************************************************************************
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Vraj Prashantkumar Thaker 
+Student ID#: 168968212
+Email      : vthaker5@myseneca.ca
+Section    : IPC144NAA
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
@@ -12,3 +12,8 @@ shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 *****************************************************************************
 
+Answer1;- I have learned many things from this workshop like writing my first code using C language. The second important thing which i have learnt is about using matrix, at first it was very challenging but after doing this workshop matrix became very easy for me. Also, I have learned different software's like filezilla and putty. Lastly, i would say that i have learned about the academic integrity that how the violation of that can lead you to some serious circumstances. 
+
+Answer2;- SSH or secure shell is a medium by which a local machine can access the remote host. SSH is like a bridge between local machine and remote machine by which they can communicate securely. I have used SSH to communicate with seneca's Matrix remote linux server.
+
+Answer3;- SFTP is a secure way or method, which is generally used to transfer data between two computers securely. I will also submit my week1 workshop by it.
